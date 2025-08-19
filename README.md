@@ -1,4 +1,5 @@
 ⚡ EcoEnergy Insights — Proyecto Final Bootcamp Data Analytics 🌿
+
 📖 Introducción
 
 EcoEnergy Insights es una startup dedicada a asesorar empresas para optimizar su consumo energético, reducir costes 💰 y minimizar su impacto ambiental 🌎. Usamos análisis de datos históricos y variables meteorológicas 🌤️ para crear modelos predictivos que anticipan el consumo eléctrico y generan recomendaciones basadas en datos reales 📊.

@@ -1,3 +1,5 @@
+> *Branch creada para analizar el código y hacer comentarios.*
+
 **⚡ EcoEnergy Insights — Proyecto Final Bootcamp Data Analytics 🌿**
 
 

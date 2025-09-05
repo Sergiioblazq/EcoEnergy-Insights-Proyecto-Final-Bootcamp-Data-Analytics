@@ -1,0 +1,2 @@
+# Python version for EcoEnergy-Insights venv
+python_version = "3.13.3"

@@ -128,24 +128,22 @@ EcoEnergy Insights ayuda a las empresas a gestionar su consumo energético de fo
 
 
 
+
 **📁 Estructura del repositorio**
 
-EcoEnergyInsights/
-
+EcoEnergy-Insights-Proyecto-Final-Bootcamp-Data-Analytics/
 │
-
-├── data/               # Datos originales y procesados 📂
-
-├── notebooks/          # Análisis y modelos en Jupyter Notebooks 📓
-
-├── dashboard/          # Código y recursos del dashboard interactivo 🖥️
-
-├── results/            # Resultados de predicciones y métricas 📈
-
-├── README.md           # Documentación del proyecto 📄
-
-└── presentation/       # Materiales para presentación final 🎤
-
+├── files/
+│     ├── raw/                      # Raw data
+│     ├── cleansed/                 # Archivos limpios y procesados
+│     └── results/                  # Archivos de conclusiones y resultados
+│
+├── graphs/                         # Gráficos generados
+├── utils/                          # Scripts adicionales
+├── main.ipynb                    # Notebook principal del proyecto
+├── requirements.txt              # Dependencias del proyecto
+├── python_version.txt            # Versión de Python utilizada en el entorno venv
+└── README.md                     # Documentación del proyecto
 
 
 **💻 Tecnologías y herramientas**

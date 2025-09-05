@@ -1,0 +1,33 @@
+EDA Summary Report
+===================
+
+Input file: /mnt/data/combined_energy_weather_cleaned.csv
+Output FE file: /mnt/data/combined_energy_weather_fe.csv
+
+Rows: 35064, Columns: 51
+
+Dropped columns due to >60% null: ['generation hydro pumped storage aggregated', 'forecast wind offshore eday ahead']
+
+Detected demand column: total load actual
+
+Top 10 numeric columns by non-null count:
+generation biomass    35064
+snow_3h               35064
+temp                  35064
+temp_min              35064
+temp_max              35064
+pressure              35064
+humidity              35064
+wind_speed            35064
+wind_deg              35064
+rain_1h               35064
+
+Files generated:
+/mnt/data/combined_energy_weather_fe.csv
+/mnt/data/figs/demand_last90d.png
+/mnt/data/figs/pct_renewable_last90d.png
+/mnt/data/figs/avg_demand_by_hour.png
+/mnt/data/figs/corr_heatmap.png
+
+
+End of report.
